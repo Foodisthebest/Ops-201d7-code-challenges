@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script:                     Login History  
-# Author:                     Andrew Carroll collaborated with me  
+# Author:                     Renona Gay, collaborated with Andrew Carroll 
 # Date of latest revision:    10/30/2023  
 # Purpose:                    Ops 201 Challenge 06
 
